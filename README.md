@@ -1,5 +1,5 @@
 # App-TFM
-Herramienta para la realización de análisis de significación biológica con R
+**Herramienta para la realización de análisis de significación biológica con R**
 
 Para la instalación de los paquetes necesarios debe utilizarse el cádigo contenido en el archivo Instalación-paquetes.R.
 
