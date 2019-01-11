@@ -198,7 +198,7 @@ ui <- dashboardPage(
                        selectInput(inputId = "readable",
                                    label = "Readable: whether mapping gene ID to gene Name",
                                    choices = c("TRUE", "FALSE"),
-                                   selected = "FALSE"),
+                                   selected = "TRUE"),
                        selectInput(inputId = "pool",
                                    label = "Pool: if ont='ALL', whether pool 3 GO sub-ontologies",
                                    choices = c("TRUE", "FALSE"),
