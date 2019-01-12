@@ -1,6 +1,6 @@
 #Instalación de paquetes
 
-install.packages(c("shiny", "shinydashboard", "utils", "ggplot2", "DT"), dep = TRUE)
+install.packages(c("shiny", "shinydashboard", "DT", "utils", "ggplot2"), dep = TRUE)
 
 source("http://bioconductor.org/biocLite.R")
 biocLite(c("clusterProfiler", "DOSE", "GOSemSim", "ChIPseeker", "pathview", "org.Hs.eg.db", "org.Mm.eg.db",
