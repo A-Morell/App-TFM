@@ -7,4 +7,6 @@ Para cargar los datos de prueba debe utilizarse el código contenido en el archi
 
 El código completo de la aplicación se encuentra en el archivo TFM_app.R.
 
-Todos los archivos deben ejecutarse en RStudio para su correcto funcionamiento.
+Es recomendable ejecutar los distintos archivos .R en RStudio para su correcto funcionamiento.
+
+Para poder trabajar con la apliación en primer lugar se debe realizar la instalación de los paquetes mediante el archivo correspondiente, seguidamente se puede proceder a la creación de los conjuntos de datos de prueba y por último ejecutar la aplicación.
