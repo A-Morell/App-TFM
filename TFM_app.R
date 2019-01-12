@@ -8,13 +8,6 @@
 
 
 
-
-
-
-#Instalación de paquetes
-
-
-
 ## Carga de los paquetes
 
 require(shiny)
@@ -50,8 +43,6 @@ require(org.Pf.plasmo.db)
 require(org.EcSakai.eg.db)
 
 require(TxDb.Hsapiens.UCSC.hg19.knownGene)
-
-# Datos de prueba
 
 
 
